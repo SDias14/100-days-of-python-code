@@ -1,0 +1,6 @@
+print = It is a function.  Prints the values to a stream, or to sys.stdout by default.
+"hello workd" = string 
+
+\n = to escape a line
+
+python is ident sensitive. it means that identation matters 
